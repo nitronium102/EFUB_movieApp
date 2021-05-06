@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/nitronium102.github.io/EFUB_movieApp/static/css/main.26212b18.chunk.css",
-    "main.js": "/nitronium102.github.io/EFUB_movieApp/static/js/main.37f7a9d9.chunk.js",
-    "main.js.map": "/nitronium102.github.io/EFUB_movieApp/static/js/main.37f7a9d9.chunk.js.map",
-    "runtime-main.js": "/nitronium102.github.io/EFUB_movieApp/static/js/runtime-main.0f64692b.js",
-    "runtime-main.js.map": "/nitronium102.github.io/EFUB_movieApp/static/js/runtime-main.0f64692b.js.map",
-    "static/js/2.1466692f.chunk.js": "/nitronium102.github.io/EFUB_movieApp/static/js/2.1466692f.chunk.js",
-    "static/js/2.1466692f.chunk.js.map": "/nitronium102.github.io/EFUB_movieApp/static/js/2.1466692f.chunk.js.map",
-    "index.html": "/nitronium102.github.io/EFUB_movieApp/index.html",
-    "static/css/main.26212b18.chunk.css.map": "/nitronium102.github.io/EFUB_movieApp/static/css/main.26212b18.chunk.css.map",
-    "static/js/2.1466692f.chunk.js.LICENSE.txt": "/nitronium102.github.io/EFUB_movieApp/static/js/2.1466692f.chunk.js.LICENSE.txt"
+    "main.css": "/EFUB_movieApp/static/css/main.26212b18.chunk.css",
+    "main.js": "/EFUB_movieApp/static/js/main.37f7a9d9.chunk.js",
+    "main.js.map": "/EFUB_movieApp/static/js/main.37f7a9d9.chunk.js.map",
+    "runtime-main.js": "/EFUB_movieApp/static/js/runtime-main.d84d497e.js",
+    "runtime-main.js.map": "/EFUB_movieApp/static/js/runtime-main.d84d497e.js.map",
+    "static/js/2.1466692f.chunk.js": "/EFUB_movieApp/static/js/2.1466692f.chunk.js",
+    "static/js/2.1466692f.chunk.js.map": "/EFUB_movieApp/static/js/2.1466692f.chunk.js.map",
+    "index.html": "/EFUB_movieApp/index.html",
+    "static/css/main.26212b18.chunk.css.map": "/EFUB_movieApp/static/css/main.26212b18.chunk.css.map",
+    "static/js/2.1466692f.chunk.js.LICENSE.txt": "/EFUB_movieApp/static/js/2.1466692f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f64692b.js",
+    "static/js/runtime-main.d84d497e.js",
     "static/js/2.1466692f.chunk.js",
     "static/css/main.26212b18.chunk.css",
     "static/js/main.37f7a9d9.chunk.js"
